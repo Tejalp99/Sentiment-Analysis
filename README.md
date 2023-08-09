@@ -46,5 +46,5 @@ enable you to gain a more profound comprehension of customer feedback and opinio
    to video games using Altair.
 
 ## DATASET:
-Amazon dataset can be downloaded from [click here](https://nijianmo.github.io/amazon/index.html)
+Amazon dataset can be downloaded from [click here] (https://nijianmo.github.io/amazon/index.html).
    
