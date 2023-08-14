@@ -58,12 +58,14 @@ Precision helps us to visualize the reliability of the machine learning model in
 Precision = True Positive/True Positive + False Positive  
 Precision = TP/TP+FP  
 
+Recall, also known as the true positive rate (TPR), is the percentage of data samples that a machine learning model correctly identifies as belonging to a class of interest—the “positive class”—out of the total samples for that class.
+
+A high F1 score indicates the strong overall performance of a binary classification model. It signifies that the model can effectively identify positive cases while minimizing false positives and false negatives.
 
 ## RESULTS:
 ### POSITIVE ASSESSMENT:
-recall: 0.5795795795795796
+<img width="278" alt="Screenshot 2023-08-14 at 4 42 04 PM" src="https://github.com/Tejalp99/Sentiment-Analysis/assets/115590863/8a0861e8-0236-4be9-a242-31e98f9a6cb4">
 
-precission: 0.6209115281501341
+### NEGATIVE ASSESSMENT:
+<img width="290" alt="Screenshot 2023-08-14 at 4 41 46 PM" src="https://github.com/Tejalp99/Sentiment-Analysis/assets/115590863/1f0df1c1-b530-4a99-ba32-226beb8662e7">
 
-f1 score: 0.5995340409008543
-   
