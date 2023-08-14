@@ -64,5 +64,6 @@ Precision = TP/TP+FP
 recall: 0.5795795795795796
 
 precission: 0.6209115281501341
+
 f1 score: 0.5995340409008543
    
