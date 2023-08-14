@@ -47,4 +47,22 @@ enable you to gain a more profound comprehension of customer feedback and opinio
 
 ## DATASET:
 Amazon dataset can be downloaded from [click here] (https://nijianmo.github.io/amazon/index.html).
+
+## CONFUSION MATRIX:
+True Positive: This combination tells us how many times a model correctly classifies a positive sample as Positive?
+False Negative: This combination tells us how many times a model incorrectly classifies a positive sample as Negative?
+False Positive: This combination tells us how many times a model incorrectly classifies a negative sample as Positive?
+True Negative: This combination tells us how many times a model correctly classifies a negative sample as Negative?
+
+Precision helps us to visualize the reliability of the machine learning model in classifying the model as positive.
+Precision = True Positive/True Positive + False Positive  
+Precision = TP/TP+FP  
+
+
+## RESULTS:
+### POSITIVE ASSESSMENT:
+recall: 0.5795795795795796
+
+precission: 0.6209115281501341
+f1 score: 0.5995340409008543
    
