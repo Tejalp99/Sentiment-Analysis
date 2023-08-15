@@ -18,17 +18,6 @@ your responsibility involves analyzing customer reviews related to video games.
 To accomplish this task, you'll employ various NLP techniques. These methodologies will 
 enable you to gain a more profound comprehension of customer feedback and opinions.
 
-## Types of Sentiment Analysis:
-1. **Fine-grained sentiment analysis**: This depends on the polarity base. This category can be designed as very positive, positive, neutral, negative, or        very negative. The rating is done on a scale of 1 to 5. If the rating is 5 then it is very positive, 2 then negative, and 3 then neutral.
-2. **Emotion detection**: The sentiments happy, sad, angry, upset, jolly, pleasant, and so on come under emotion detection. It is also known as a lexicon 
-   method of sentiment analysis.
-3. **Aspect-based sentiment analysis**: It focuses on a particular aspect for instance if a person wants to check the feature of the cell phone then it 
-   checks the aspect such as the battery, screen, and camera quality then aspect based is used.
-4. **Multilingual sentiment analysis**: Multilingual consists of different languages where the classification needs to be done as positive, negative, and 
-   neutral. This is highly challenging and comparatively difficult.
-
-   **In the project we have used Fine grained Sentimental Analysis.**
-   
 ## Task for NLP Specialist is:
 1. Download the dataset of Amazon reviews.
 2. Create your own dataset from the Amazon reviews.
@@ -42,6 +31,17 @@ enable you to gain a more profound comprehension of customer feedback and opinio
    video game they purchased by classifying the reviews as positive, negative,
    and neutral.
 
+## Types of Sentiment Analysis:
+1. **Fine-grained sentiment analysis**: This depends on the polarity base. This category can be designed as very positive, positive, neutral, negative, or        very negative. The rating is done on a scale of 1 to 5. If the rating is 5 then it is very positive, 2 then negative, and 3 then neutral.
+2. **Emotion detection**: The sentiments happy, sad, angry, upset, jolly, pleasant, and so on come under emotion detection. It is also known as a lexicon 
+   method of sentiment analysis.
+3. **Aspect-based sentiment analysis**: It focuses on a particular aspect for instance if a person wants to check the feature of the cell phone then it 
+   checks the aspect such as the battery, screen, and camera quality then aspect based is used.
+4. **Multilingual sentiment analysis**: Multilingual consists of different languages where the classification needs to be done as positive, negative, and 
+   neutral. This is highly challenging and comparatively difficult.
+
+   ***In the project we have used Fine grained Sentimental Analysis.***
+   
 ## TECHNIQUES EMPLOYED:
 1. Sampling from imbalanced datasets using the imbalanced-learn package
 2. Enquiring about the sentiment value of the reviews with the dictionary-based
@@ -63,10 +63,11 @@ Amazon dataset can be downloaded from [click here] (https://nijianmo.github.io/a
 A classification data set with skewed class proportions is called imbalanced. Classes that make up a large proportion of the data set are called majority classes. Those that make up a smaller proportion are minority classes. Therefore from the above graph we can see that the data is imbalanced. To solve the problem of imbalanced dataset we use the concept of Resampling (Undersampling/Oversampling)
 ![Screenshot 2023-08-15 at 12 41 07 PM](https://github.com/Tejalp99/Sentiment-Analysis/assets/115590863/af33be30-3e08-40a7-94ea-82c0d5b4f813)
 
-In the project we have used Undersampling.
+***In the project we have used Undersampling.***
 
+## RESULTS:
 
-## CONFUSION MATRIX:
+### CONFUSION MATRIX:
 True Positive: This combination tells us how many times a model correctly classifies a positive sample as Positive?
 False Negative: This combination tells us how many times a model incorrectly classifies a positive sample as Negative?
 False Positive: This combination tells us how many times a model incorrectly classifies a negative sample as Positive?
@@ -80,7 +81,6 @@ Recall, also known as the true positive rate (TPR), is the percentage of data sa
 
 A high F1 score indicates the strong overall performance of a binary classification model. It signifies that the model can effectively identify positive cases while minimizing false positives and false negatives.
 
-## RESULTS:
 ### POSITIVE ASSESSMENT:
 <img width="278" alt="Screenshot 2023-08-14 at 4 42 04 PM" src="https://github.com/Tejalp99/Sentiment-Analysis/assets/115590863/8a0861e8-0236-4be9-a242-31e98f9a6cb4">
 
