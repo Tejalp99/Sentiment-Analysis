@@ -65,6 +65,22 @@ A classification data set with skewed class proportions is called imbalanced. Cl
 
 ***In the project we have used Undersampling.***
 
+## Tokenization in NLP:
+ Tokenization is used in natural language processing to split paragraphs and sentences into smaller units that can be more easily assigned meaning.   
+**Types of Tokenizers used in the project: 
+1. **Penn Treebank Word Tokenizer**: It is a rule-based tokenization method that separates out clitics ( words that normally occur only in combination                                         with another word, for example in I’m), keeps hyphenated words together, and separates out all punctuation.
+2. **Casual Tokenizer**: The casual tokenizer in NLTK is particularly useful for text that might have unconventional or informal punctuation,                                      abbreviations, emoticons, hashtags, and other elements commonly found in online conversations or informal writing. It aims to                             capture tokens that might not be handled correctly by more traditional tokenization methods.
+3. **Stemming**: Stemming is a natural language processing technique that lowers inflection in words to their root forms, hence aiding in the                              preprocessing of text, words, and documents for text normalization.
+                 Porter Stemmer: The Porter stemmer is the most widely used algorithm, and it is based on a set of heuristics that are used to remove                                      common suffixes from words.
+4. **Lemmatization**: The purpose of lemmatization is same as that of stemming but overcomes the drawbacks of stemming. In stemming, for some words, it 
+                      may not give may not give meaningful representation such as “Histori”. Here, lemmatization comes into picture as it gives                                 meaningful word.
+
+![Screenshot 2023-08-15 at 5 39 51 PM](https://github.com/Tejalp99/Sentiment-Analysis/assets/115590863/54ccadd0-5893-4577-9cf4-dfefaa766b34)
+
+5. **Sentiment Predictor Baseline Model**:
+   This function takes a list of word tokens as input and calculates a sentiment score based on the sentiment of the individual words in the list. It 
+   appears to use the NLTK library (Natural Language Toolkit) to analyze the sentiment of each word.
+   
 ## RESULTS:
 
 ### CONFUSION MATRIX:
