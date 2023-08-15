@@ -67,7 +67,7 @@ A classification data set with skewed class proportions is called imbalanced. Cl
 
 ## Tokenization in NLP:
  Tokenization is used in natural language processing to split paragraphs and sentences into smaller units that can be more easily assigned meaning.   
-**Types of Tokenizers used in the project: 
+**Types of Tokenizers used in the project**: 
 1. **Penn Treebank Word Tokenizer**: It is a rule-based tokenization method that separates out clitics ( words that normally occur only in combination                                         with another word, for example in I’m), keeps hyphenated words together, and separates out all punctuation.
 2. **Casual Tokenizer**: The casual tokenizer in NLTK is particularly useful for text that might have unconventional or informal punctuation,                                      abbreviations, emoticons, hashtags, and other elements commonly found in online conversations or informal writing. It aims to                             capture tokens that might not be handled correctly by more traditional tokenization methods.
 3. **Stemming**: Stemming is a natural language processing technique that lowers inflection in words to their root forms, hence aiding in the                              preprocessing of text, words, and documents for text normalization.
