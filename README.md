@@ -54,7 +54,7 @@ enable you to gain a more profound comprehension of customer feedback and opinio
 5. Evaluating your model and creating descriptive statistics in Python with scikit-learn
    library before reporting your results to your manager.
 6. Visualizing your findings about preferable and non-preferable words related
-   to video games using Altair.
+   to video games using Altair. 
 
 ## DATASET:
 Amazon dataset can be downloaded from [click here] (https://nijianmo.github.io/amazon/index.html).
