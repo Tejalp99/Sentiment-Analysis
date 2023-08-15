@@ -75,7 +75,7 @@ A classification data set with skewed class proportions is called imbalanced. Cl
 4. **Lemmatization**: The purpose of lemmatization is same as that of stemming but overcomes the drawbacks of stemming. In stemming, for some words, it 
                       may not give may not give meaningful representation such as “Histori”. Here, lemmatization comes into picture as it gives                                 meaningful word.
 
-![Screenshot 2023-08-15 at 5 39 51 PM](https://github.com/Tejalp99/Sentiment-Analysis/assets/115590863/54ccadd0-5893-4577-9cf4-dfefaa766b34)
+  ![Screenshot 2023-08-15 at 5 39 51 PM](https://github.com/Tejalp99/Sentiment-Analysis/assets/115590863/54ccadd0-5893-4577-9cf4-dfefaa766b34)
 
 5. **Sentiment Predictor Baseline Model**:
    This function takes a list of word tokens as input and calculates a sentiment score based on the sentiment of the individual words in the list. It 
