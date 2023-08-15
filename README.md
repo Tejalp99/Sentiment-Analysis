@@ -18,6 +18,15 @@ your responsibility involves analyzing customer reviews related to video games.
 To accomplish this task, you'll employ various NLP techniques. These methodologies will 
 enable you to gain a more profound comprehension of customer feedback and opinions.
 
+## Types of Sentiment Analysis:
+1. **Fine-grained sentiment analysis**: This depends on the polarity base. This category can be designed as very positive, positive, neutral, negative, or        very negative. The rating is done on a scale of 1 to 5. If the rating is 5 then it is very positive, 2 then negative, and 3 then neutral.
+2. **Emotion detection**: The sentiments happy, sad, angry, upset, jolly, pleasant, and so on come under emotion detection. It is also known as a lexicon 
+   method of sentiment analysis.
+3. **Aspect-based sentiment analysis**: It focuses on a particular aspect for instance if a person wants to check the feature of the cell phone then it 
+   checks the aspect such as the battery, screen, and camera quality then aspect based is used.
+4. **Multilingual sentiment analysis**: Multilingual consists of different languages where the classification needs to be done as positive, negative, and 
+   neutral. This is highly challenging and comparatively difficult.
+   
 ## Task for NLP Specialist is:
 1. Download the dataset of Amazon reviews.
 2. Create your own dataset from the Amazon reviews.
