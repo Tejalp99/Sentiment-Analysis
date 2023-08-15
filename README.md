@@ -48,6 +48,13 @@ enable you to gain a more profound comprehension of customer feedback and opinio
 ## DATASET:
 Amazon dataset can be downloaded from [click here] (https://nijianmo.github.io/amazon/index.html).
 
+## Imbalanced Dataset:
+A classification data set with skewed class proportions is called imbalanced. Classes that make up a large proportion of the data set are called majority classes. Those that make up a smaller proportion are minority classes. Therefore from the above graph we can see that the data is imbalanced. To solve the problem of imbalanced dataset we use the concept of Resampling (Undersampling/Oversampling)
+![Screenshot 2023-08-15 at 12 41 07 PM](https://github.com/Tejalp99/Sentiment-Analysis/assets/115590863/af33be30-3e08-40a7-94ea-82c0d5b4f813)
+
+In the project we have used Undersampling.
+
+
 ## CONFUSION MATRIX:
 True Positive: This combination tells us how many times a model correctly classifies a positive sample as Positive?
 False Negative: This combination tells us how many times a model incorrectly classifies a positive sample as Negative?
