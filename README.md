@@ -26,6 +26,8 @@ enable you to gain a more profound comprehension of customer feedback and opinio
    checks the aspect such as the battery, screen, and camera quality then aspect based is used.
 4. **Multilingual sentiment analysis**: Multilingual consists of different languages where the classification needs to be done as positive, negative, and 
    neutral. This is highly challenging and comparatively difficult.
+
+   **In the project we have used Fine grained Sentimental Analysis.**
    
 ## Task for NLP Specialist is:
 1. Download the dataset of Amazon reviews.
