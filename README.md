@@ -1,12 +1,11 @@
 # Sentiment-Analysis and Natural Language Processing for Amazon Product Reviews
 
 In this live project, you'll get a comprehensive view of the role played by a 
-Natural Language Processing (NLP) Specialist within the Growth Hacking Team of a recently 
-launched startup that's introducing a novel video game to the market. The Growth Hacking 
-Team's primary goal is to rapidly expand early-stage startups within a limited timeframe. 
+Natural Language Processing (NLP) Specialist introducing a novel video game to the market. 
+The  primary goal is to rapidly expand early-stage startups within a limited timeframe. 
 To achieve this, they implement strategies aimed at acquiring a large customer base at 
-minimal costs. As a part of this team's growth hacking strategy, your manager wants to 
-chart the landscape of the video game market. The objective is to understand how customers
+minimal costs. As a part of the strategy, your manager wants to chart the landscape of the 
+video game market. The objective is to understand how customers
 assess competitors' products, specifically identifying the aspects they appreciate and 
 dislike in a video game. Gaining insights into what captivates gamers about a video game 
 will assist the marketing team in effectively communicating the value of their own 
